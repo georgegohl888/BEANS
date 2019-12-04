@@ -1,13 +1,25 @@
-#intro
+intro
 
-An important part of any airborne project is the aircraft itself. Without it it is little mor ethan a pile of wires and circuit boards.
+An important part of any airborne project is the aircraft itself. Without it it is little more than a pile of wires and circuit boards.
 
-#Design considerations
+Design considerations
 
-Before i started to crack on an make the thing i need tome idea of what i needed to make. A standard tin of beans weighs in at a 
+Before I started to crack on an make the thing I need tome idea of what i needed to make. A standard tin of beans weighs in at a 
 whopping 415 grams so careful planning needs to be done to ensure the thing will get of the ground. 
 
 Wingspan
 
 It was decided to to use a wingspan of just under 2 meters. This large wingspan means we have the neccicary lift to carry the payload 
 and also gives us natural stability. This large wingspan means the aircraft will fly fairly slow allowing easier targeting.
+
+Propulsion.
+
+We decided to go with a dual motor configuration. This will gave us plenty of power to propell the aircraft. This also frees up room in 
+the fusilage and allows alternitive yaw controls to the rudder.
+
+Tailplane
+
+This element of design perhaps required the most thought. We could go for either the "V" tail design or a conventional design. At this 
+stage the most likley choice is the conventional design just for simplicity and stability.
+
+With these design consideration we can now design and build the platform.
