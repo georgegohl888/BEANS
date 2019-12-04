@@ -1,5 +1,5 @@
 # BEANS
-BEANS stands for the Bean Export Airborne Navigation System.
+BEANS stands for the Bean Export And Navigation System.
 # What does it do?
 The BEANS aims to produce a fully autonomous bean delivery platform to satisfy Danny and his love for beans no matter where he is.
 # Development plan
