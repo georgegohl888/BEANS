@@ -1,0 +1,19 @@
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\bin\Debug\PrimaryFlightDisplay.exe.config
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\bin\Debug\PrimaryFlightDisplay.exe
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\bin\Debug\PrimaryFlightDisplay.pdb
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\Primary Flight Display.csprojAssemblyReference.cache
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\MainWindow.g.cs
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\App.g.cs
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\PrimaryFlightDisplay_MarkupCompile.cache
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\PrimaryFlightDisplay_MarkupCompile.lref
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\App.baml
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\MainWindow.baml
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\PrimaryFlightDisplay.g.resources
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\PrimaryFlightDisplay.Properties.Resources.resources
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\Primary Flight Display.csproj.GenerateResource.cache
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\Primary Flight Display.csproj.CoreCompileInputs.cache
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\PrimaryFlightDisplay.exe
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\PrimaryFlightDisplay.pdb
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\Parameters.g.cs
+C:\Users\georg\Downloads\PrimaryFlightDisplay 2\PrimaryFlightDisplay-master\PrimaryFlightDisplay\obj\Debug\Parameters.baml

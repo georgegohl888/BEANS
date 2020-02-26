@@ -1,0 +1,30 @@
+﻿<Window x:Class="PrimaryFlightDisplay.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:PrimaryFlightDisplay"
+        mc:Ignorable="d"
+        Title="Primary Flight Display" Height="700" Width="754.5" DataContext="{StaticResource MainController}" Loaded="Window_Loaded">
+    <Grid Background="LightGray">
+        <Grid Margin="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Viewbox Stretch="UniformToFill" Margin="4">
+                <Canvas Background="Black" ClipToBounds="True" Width="{x:Static local:Globals.PFDHeight}" Height="{x:Static local:Globals.PFDHeight}">
+                    <ItemsControl ItemsSource="{Binding PFDLayers}">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <Canvas/>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                    </ItemsControl>
+                </Canvas>
+            </Viewbox>
+
+        </Grid>
+    </Grid>
+</Window>
